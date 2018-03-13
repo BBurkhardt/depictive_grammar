@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="hungry">
+    <lemmaref cat="adj" name="hungry">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="raw">
+    <lemmaref cat="adj" name="raw">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="unwashed">
+    <lemmaref cat="adj" name="unwashed">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="the">
+    <lemmaref cat="d" name="the">
+      <fs>
+        <f name="def">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="a">
+    <lemmaref cat="d" name="a">
+      <fs>
+        <f name="def">
+          <sym value="no"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="an">
+    <lemmaref cat="d" name="a">
+      <fs>
+        <f name="def">
+          <sym value="no"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="Kim">
+    <lemmaref cat="n" name="kim">
+      <fs>
+        <f name="dp">
+          <sym value="yes"/>
+        </f>
+        <f name="wh">
+          <sym value="no"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="Sean">
+    <lemmaref cat="n" name="sean">
+      <fs>
+        <f name="dp">
+          <sym value="yes"/>
+        </f>
+        <f name="wh">
+          <sym value="no"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="apple">
+    <lemmaref cat="n" name="apple">
+      <fs>
+        <f name="dp">
+          <sym value="no"/>
+        </f>
+        <f name="wh">
+          <sym value="no"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="can">
+    <lemmaref cat="n" name="can">
+      <fs>
+        <f name="dp">
+          <sym value="no"/>
+        </f>
+        <f name="wh">
+          <sym value="no"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="salad">
+    <lemmaref cat="n" name="salad">
+      <fs>
+        <f name="dp">
+          <sym value="no"/>
+        </f>
+        <f name="wh">
+          <sym value="no"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="steak">
+    <lemmaref cat="n" name="steak">
+      <fs>
+        <f name="dp">
+          <sym value="no"/>
+        </f>
+        <f name="wh">
+          <sym value="no"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ate">
+    <lemmaref cat="v" name="eat">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="eats">
+    <lemmaref cat="v" name="eat">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="stomped">
+    <lemmaref cat="v" name="stomp">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<lemmas>
+  <lemma name="unwashed" cat="adj">
+    <anchor tree_id="family[@name=Depictives]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+      <sem>
+        <semclass name="frameUnwashed"/>
+      </sem>
+    </anchor>
+  </lemma>
+  <lemma name="raw" cat="adj">
+    <anchor tree_id="family[@name=Depictives]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+      <sem>
+        <semclass name="frameRaw"/>
+      </sem>
+    </anchor>
+  </lemma>
+  <lemma name="hungry" cat="adj">
+    <anchor tree_id="family[@name=Depictives]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+      <sem>
+        <semclass name="frameHungry"/>
+      </sem>
+    </anchor>
+  </lemma>
+  <lemma name="stomp" cat="v">
+    <anchor tree_id="family[@name=Trans]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+      <sem>
+        <semclass name="frameStomp"/>
+      </sem>
+    </anchor>
+  </lemma>
+  <lemma name="eat" cat="v">
+    <anchor tree_id="family[@name=Trans]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+      <sem>
+        <semclass name="frameEat"/>
+      </sem>
+    </anchor>
+  </lemma>
+  <lemma name="the" cat="d">
+    <anchor tree_id="family[@name=Determiners]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="a" cat="d">
+    <anchor tree_id="family[@name=Determiners]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="steak" cat="n">
+    <anchor tree_id="family[@name=Nouns]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+      <sem>
+        <semclass name="frameSteak"/>
+      </sem>
+    </anchor>
+  </lemma>
+  <lemma name="salad" cat="n">
+    <anchor tree_id="family[@name=Nouns]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+      <sem>
+        <semclass name="frameSalad"/>
+      </sem>
+    </anchor>
+  </lemma>
+  <lemma name="can" cat="n">
+    <anchor tree_id="family[@name=Nouns]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+      <sem>
+        <semclass name="frameCan"/>
+      </sem>
+    </anchor>
+  </lemma>
+  <lemma name="apple" cat="n">
+    <anchor tree_id="family[@name=Nouns]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+      <sem>
+        <semclass name="frameApple"/>
+      </sem>
+    </anchor>
+  </lemma>
+  <lemma name="sean" cat="n">
+    <anchor tree_id="family[@name=Nouns]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+      <sem>
+        <semclass name="frameSean"/>
+      </sem>
+    </anchor>
+  </lemma>
+  <lemma name="kim" cat="n">
+    <anchor tree_id="family[@name=Nouns]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+      <sem>
+        <semclass name="frameKim"/>
+      </sem>
+    </anchor>
+  </lemma>
+</lemmas>
+</mcgrammar>
